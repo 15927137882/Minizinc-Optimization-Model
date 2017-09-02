@@ -1,0 +1,3 @@
+*.mzn linguist-language = minizinc
+*.dzn linguist-language = minizinc
+*.mzp linguist-language = minizinc
